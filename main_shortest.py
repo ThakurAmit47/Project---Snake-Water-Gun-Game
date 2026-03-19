@@ -17,4 +17,6 @@ else:
     else:
         print("you win!")
 
+print("Done")
+#Two phases of project
 # Short code with pattern observation
